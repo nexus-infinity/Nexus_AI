@@ -1,2 +1,2 @@
-# Nexus_AI
-“Self-healing, scalable AI framework integrating Nexus Infiniti’s automation, AI orchestration, and intelligent data processing.”
+# Nexus Infiniti AI 🚀  
+A scalable, self-healing AI framework integrating automation, AI orchestration, and intelligent data processing.
