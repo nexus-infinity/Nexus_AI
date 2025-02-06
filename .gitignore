@@ -8,3 +8,7 @@ __pycache__/
 *.sqlite3
 models/
 
+Dev/Zion_Project/
+zion-platform/
+projects/Psychic-Octo/
+projects/nomic-agpt/
